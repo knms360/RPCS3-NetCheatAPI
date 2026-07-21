@@ -1,0 +1,9 @@
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Release\PCAPI-NCAPI.csprojResolveAssemblyReference.cache
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Release\PCAPI_NCAPI.AttachForm.resources
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Release\PCAPI_NCAPI.Properties.Resources.resources
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Release\PCAPI-NCAPI.csproj.GenerateResource.Cache
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\bin\Release\PCAPI.dll
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\bin\Release\PCAPI.pdb
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\bin\Release\NCAppInterface.dll
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Release\PCAPI.dll
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Release\PCAPI.pdb
