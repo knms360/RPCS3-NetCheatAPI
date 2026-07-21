@@ -1,4 +1,4 @@
-﻿namespace PCAPI_NCAPI
+﻿namespace RPCS3_NCAPI
 {
     partial class AttachForm
     {

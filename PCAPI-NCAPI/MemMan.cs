@@ -13,7 +13,7 @@ using System.IO;
  * http://blackandodd.blogspot.com/2012/12/c-read-and-write-process-memory-in.html
  */
 
-namespace PCAPI_NCAPI
+namespace RPCS3_NCAPI
 {
     class MemMan
     {

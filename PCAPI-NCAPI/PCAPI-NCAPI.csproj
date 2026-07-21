@@ -7,8 +7,8 @@
     <ProjectGuid>{0233F7CE-4151-4638-AC92-55614B915CB0}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PCAPI_NCAPI</RootNamespace>
-    <AssemblyName>PCAPI</AssemblyName>
+    <RootNamespace>RPCS3_NCAPI</RootNamespace>
+    <AssemblyName>RPCS3-NCAPI</AssemblyName>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

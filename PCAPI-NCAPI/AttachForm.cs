@@ -8,7 +8,7 @@ using System.Text;
 using System.Diagnostics;
 using System.Windows.Forms;
 
-namespace PCAPI_NCAPI
+namespace RPCS3_NCAPI
 {
     public partial class AttachForm : Form
     {

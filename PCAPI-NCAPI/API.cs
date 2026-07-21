@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using NCAppInterface;
 
-namespace PCAPI_NCAPI
+namespace RPCS3_NCAPI
 {
     public class API : IAPI
     {

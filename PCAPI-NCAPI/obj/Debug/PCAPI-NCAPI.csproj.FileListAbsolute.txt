@@ -1,11 +1,11 @@
-C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\bin\Debug\PCAPI.dll
-C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\bin\Debug\PCAPI.pdb
 C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\bin\Debug\NCAppInterface.dll
 C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\PCAPI-NCAPI.csproj.AssemblyReference.cache
-C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\PCAPI_NCAPI.AttachForm.resources
-C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\PCAPI_NCAPI.Properties.Resources.resources
 C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\PCAPI-NCAPI.csproj.GenerateResource.cache
 C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\PCAPI-NCAPI.csproj.CoreCompileInputs.cache
 C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\PCAPI-NCAPI.csproj.CopyComplete
-C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\PCAPI.dll
-C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\PCAPI.pdb
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\RPCS3_NCAPI.Properties.Resources.resources
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\bin\Debug\RPCS3-NCAPI.dll
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\bin\Debug\RPCS3-NCAPI.pdb
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\RPCS3_NCAPI.AttachForm.resources
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\RPCS3-NCAPI.dll
+C:\Users\knms360\Documents\NCAPI\PCAPI-NCAPI\obj\Debug\RPCS3-NCAPI.pdb
