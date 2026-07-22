@@ -1,4 +1,4 @@
-# Use cheat codes in RPCS3
+# NetCheat API for RPCS3
 ## About
 ### Tool for using cheat code in RPCS3 (PS3 emulator)
 NetCheat PCAPI library (RPCS3 Fix) to use cheat code in RPCS3
