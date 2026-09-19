@@ -10,10 +10,8 @@ NetCheat PCAPI library (RPCS3 Fix) to use cheat code in RPCS3
 5. Paste RPCS3-NCAPI.dll in the ncUpdateDir/APIs
 <img width="617" height="369" alt="image" src="https://github.com/user-attachments/assets/6765f8ae-11ae-4374-b90e-f99233f1865a" />
 
-6. Run NetCheatPS3_64.exe
+6. Run NetCheatPS3_64.exe with administrator (Not NetCheatPS3.exe)
 7. Enjoy!
-
-*You might need to run it as an administrator.
 
 ## Credit
 Thanks Devloper:
