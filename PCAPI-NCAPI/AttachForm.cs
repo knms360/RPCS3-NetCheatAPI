@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Diagnostics;
 using System.Windows.Forms;
+using System.Reflection;
 
 namespace RPCS3_NCAPI
 {
@@ -23,13 +24,16 @@ namespace RPCS3_NCAPI
 
         private void AttachForm_Load(object sender, EventArgs e)
         {
-            procs = Process.GetProcesses().Where(p => p.ProcessName.IndexOf("rpcs3", StringComparison.OrdinalIgnoreCase) >= 0).ToList();
+            procs = Process.GetProcesses()
+                               .Where(p => p.ProcessName.IndexOf("rpcs3", StringComparison.OrdinalIgnoreCase) >= 0)
+                               .ToList();
             procs.Sort((a, b) => a.Id.CompareTo(b.Id));
 
             foreach (Process p in procs)
             {
                 listBox1.Items.Add(p.Id.ToString("X8") + "-" + p.ProcessName);
             }
+
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -49,6 +53,7 @@ namespace RPCS3_NCAPI
 
         private void button3_Click(object sender, EventArgs e)
         {
+            listBox1.Items.Clear();
             procs = Process.GetProcesses().ToList();
             procs.Sort((a, b) => a.Id.CompareTo(b.Id));
 
