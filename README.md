@@ -15,6 +15,8 @@ NetCheat PCAPI library (RPCS3 Fix) to use cheat code in RPCS3
 8. Press Connect, Attatch, Select rpcs3 and Attach
 9. Enjoy!
 
+*When attaching, it automatically searches for the rpcs3 process. Press refresh to see all processes.
+
 ## Credit
 Thanks Devloper:
 
